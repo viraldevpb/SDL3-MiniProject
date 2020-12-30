@@ -1,4 +1,4 @@
-# online-shopping-webvsite-in-php
+# Online Shopping Website in php
 
 Shopping Cart System is the Simple shopping Solution. It’s a full-featured website and shopping cart system that bends over backwards to give you the flexibility you need to runyour online store.
 
@@ -42,6 +42,7 @@ WAMP Server
 XAMPP Server
 MAMP Server
 LAMP Server
+
 Installation Steps
 Download zip file and Unzip file on your local server.
 Put this file inside “c:/wamp/www/” .
